@@ -37,3 +37,5 @@ Source code is found in the visualization_notebooks folder with the respective n
 3. We then utilize the geoapify API to find the nearest hotel to each city and construct a DataFrame with the characteristics of each city along with the associated hotel.
 
 4. Finally, we can plot the cities and corresponding hotels to see where we can find our desired weather characteristics.
+
+Link to VacationPy Visualizations: [Link to Google Colab](https://colab.research.google.com/drive/10GGCooa91jOwf_QK2fxnwiCJNwH-hMbh#scrollTo=0GLaPmAzlPDI)
